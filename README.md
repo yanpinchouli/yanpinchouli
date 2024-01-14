@@ -11,7 +11,6 @@
 <a href="https://codepen.io/yanpin0524" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yanpin0524" height="30" width="40" /></a>
 <a href="https://twitter.com/yanpin0524" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yanpin0524" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yanpin0524/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="周李彥品" height="30" width="40" /></a>
-<a href="https://instagram.com/yanpin0524" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanpin0524" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
