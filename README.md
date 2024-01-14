@@ -4,7 +4,7 @@
 <hr>
 <div align="left">
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanpin0524&show_icons=true&locale=en&layout=compact" alt="yanpin0524" /></p>  
+<img align="right" src="https://github.com/yanpin0524/yanpin0524/blob/main/messagif.gif?raw=true" alt="yanpin0524" /></p>  
   
 <h3>Connect with me:</h3>
 <p>
