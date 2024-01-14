@@ -1,10 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanpin0524&label=Profile%20views&color=0e75b6&style=flat" alt="yanpin0524" /> </p>
 
-<img src="giphy.gif">
+<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
 <hr>
 <div align="left">
 <p>
-<img align="right" src="https://github.com/yanpin0524/yanpin0524/blob/main/messagif.gif?raw=true" alt="yanpin0524" /></p>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanpin0524&show_icons=true&locale=en&layout=compact" alt="yanpin0524" />
+</p>  
   
 <h3>Connect with me:</h3>
 <p>
