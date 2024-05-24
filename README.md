@@ -16,6 +16,7 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yanpin0524/yanpin0524/assets/91281982/af1c86f9-b595-4f63-ae3b-21d2a4cc60c9" width="36" height="36" alt="Django" /></a>
   </p>
   </br>
+  </br>
   <h2>Connect with me:</h2>
   <p>
     <a href="https://twitter.com/yanpin0524" target="_blank"><img align="center" src="https://github.com/yanpin0524/yanpin0524/assets/91281982/e4e5bc31-92e0-4b0c-988c-36e32ad0f6ae" alt="yanpin0524" width="45" /></a>
