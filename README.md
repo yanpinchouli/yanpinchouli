@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yanpin0524&label=Profile%20views&color=0e75b6&style=flat" alt="yanpin0524" /></p>
 
-<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png">
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/yanpin0524/yanpin0524/assets/91281982/97d0fcd3-4485-4a8b-892d-fa9dd660b166)
 <hr>
 <div align="left">
   <p>
