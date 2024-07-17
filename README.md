@@ -10,6 +10,7 @@
   <h3>🛠️ Building projects with:</h3>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1a772a14-1554-41ee-b347-f6331b200eff" width="36" height="36" alt="VueJS" /></a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yanpin0524/yanpin0524/assets/91281982/03392753-3074-4fd8-bbcd-bbe77dae14b1" width="36" height="36" alt="ExpressJS" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/yanpin0524/yanpin0524/assets/91281982/2b9eabbd-c52c-4aca-ba3f-c305562d7337" width="36" height="36" alt="Python" /></a>
