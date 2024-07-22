@@ -4,7 +4,7 @@
 <hr>
 <div align="left">
   <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanpin0524&show_icons=true&locale=en&layout=compact" alt="yanpin0524" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanpin0524&show_icons=true&locale=en&layout=compact&theme=dark" alt="yanpin0524" />
   </p>  
 
   <h3>🛠️ Building projects with:</h3>
