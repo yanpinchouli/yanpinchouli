@@ -33,8 +33,6 @@
   <img width="7" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" width="170" alt="express logo"  />
   <img width="7" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" width="140" alt="flask logo"  />
-  <img width="7" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" width="155" alt="django logo"  />
   <img width="7" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" width="150" alt="spring logo"  />
